@@ -18,6 +18,7 @@
   "homepage": "https://github.com/bartleyf/bamazon#readme",
   "dependencies": {
     "cli-table2": "^0.2.0",
+    "console.table": "^0.10.0",
     "inquirer": "^5.0.1",
     "mysql": "^2.15.0"
   }
